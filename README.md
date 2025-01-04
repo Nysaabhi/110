@@ -2085,7 +2085,7 @@ style.textContent = `
   color: #fff;
   margin-bottom: 8px;
   font-size: clamp(1rem, 2.5vw, 1.25rem);
-  margin-left: -20px;
+  margin-left: -25px;
 }
 
 .info-section ul {
