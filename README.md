@@ -2090,7 +2090,7 @@ style.textContent = `
 
 .info-section ul {
   margin: 0;
-  margin-left: -20px;
+  margin-left: -30px;
   color: #fff;
 }
 
